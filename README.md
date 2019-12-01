@@ -7,12 +7,13 @@ https://www.coursera.org/learn/c-chengxu-sheji/home/welcome
 
 ### 1 . 剑指Offer
 https://www.acwing.com/activity/content/5/
-
-<center>
 Current Progress　(30 Days) :
-🔵 ⚪️⚪️⚪️⚪️⚪️⚪      
-all Progress: 1 / 30.	
-</center>
+
+Overall Progress: 1 / 30.
+
+🔵 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+
+
 
 ### 2 . Leetcode 题解 算法复习
 https://www.acwing.com/activity/content/11/
